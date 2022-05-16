@@ -1,0 +1,51 @@
+[
+   {
+    "symbol": "DODO",
+    "leverage": 7,
+    "take_profit_percent": 0,
+    "stop_loss_percent": 3
+  },
+  {
+    "symbol": "GAL",
+    "leverage": 7,
+    "take_profit_percent": 0,
+    "stop_loss_percent": 3
+  },
+  {
+    "symbol": "1INCH",
+    "leverage": 7,
+    "take_profit_percent": 0,
+    "stop_loss_percent": 3
+
+  },
+  {
+    "symbol": "DYDX",
+    "leverage": 7,
+    "take_profit_percent": 0,
+    "stop_loss_percent": 3
+  },
+  {
+    "symbol": "APE",
+    "leverage": 7,
+    "take_profit_percent": 0,
+    "stop_loss_percent": 3
+  },
+  {
+    "symbol": "CELR",
+    "leverage": 7,
+    "take_profit_percent": 0,
+    "stop_loss_percent": 3
+},
+{
+    "symbol": "TRX",
+    "leverage": 7,
+    "take_profit_percent": 0,
+    "stop_loss_percent": 3
+  },
+{
+    "symbol": "ONE",
+    "leverage": 7,
+    "take_profit_percent": 0,
+    "stop_loss_percent": 3
+  }
+    ]

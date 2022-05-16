@@ -1,0 +1,8 @@
+{
+  "exchange": "bybit",
+  "key": "api_key",
+  "secret": "secret_key",
+  "check_leverage": "false",
+  "cooldown": 60
+}
+
