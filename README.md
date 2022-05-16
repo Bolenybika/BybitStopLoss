@@ -1,6 +1,6 @@
 # BybitStopLoss
 !!!Use at own risk, I take no responsibility for your losses!!! 
-This bot is created from CryptoGnome's Bybit-Futures-Bot. It check position from coins.json every 60s and set stoploss at desired % of coins.json. 
+It check position from coins.json every 60s and set stoploss at desired % of coins.json. 
 Setup:
 install Python
 pip install requirements
